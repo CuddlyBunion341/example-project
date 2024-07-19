@@ -6,7 +6,6 @@ application up and running. fw f
 Things you may want to cover:
 
 * Ruby version
-
 * System dependencies
 
 
